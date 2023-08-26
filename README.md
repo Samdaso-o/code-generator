@@ -1,4 +1,4 @@
-# Mito와 Streamlit을 이용하여 Excel Transform code 생성기 By Chatgpt
+# Excel Transform의 Python code 생성기 By Chatgpt
 
 Mito와 Streamlit을 이용하여 Excel에서 변환 작업을 진행한 것을 파이썬 코드로 생성해주는 생성기
 
@@ -13,7 +13,7 @@ Mito와 Streamlit을 이용하여 Excel에서 변환 작업을 진행한 것을 
 
 ## 프로젝트 개요
 
-Excel에서 변환 작업을 진행한 것을 파이썬 코드로 생성해주는 생성기로써, 매번 변칙적인 엑셀 파일을 위해 파이썬 코드를 매번 작성할 필요없이 빠르게 UI로만 파이썬 코드를 생성할 수 있다라는 장점을 가지고 있다.
+Excel에서 변환 작업을 진행한 것을 파이썬 코드로 생성해주는 생성기로써, 매번 변칙적인 엑셀 파일을 위해 파이썬 코드를 매번 작성할 필요없이 빠르게 UI로만 파이썬 코드를 생성할 수 있는 툴
 모든 코드는 Chatgpt로만 생성하였으며 하단에 prompt가 공유되어 있다.
 
 ## 사용된 Chatgpt prompt
