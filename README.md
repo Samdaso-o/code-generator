@@ -6,10 +6,10 @@ Mito와 Streamlit을 이용하여 Excel에서 변환 작업을 진행한 것을 
 
 - [프로젝트 개요](#프로젝트-개요)
 - [설치](#설치)
-- [사용된 Chatgpt prompt](#사용된 Chatgpt prompt)
+- [사용된 Chatgpt prompt](#사용된-Chatgpt-prompt)
 - [실행](#실행)
 - [기능](#기능)
-- [Example Page] (#Example Page)
+- [Example Page](#Example-Page)
 
 ## 프로젝트 개요
 
